@@ -1,0 +1,8 @@
+Java Program for Word Count
+
+Instructions for running and testing the Java program
+
+Step 1: Clone this GitHub link <https://github.com/shifat2002/Javafile>
+Step 2: Run cmd to the repo folder.
+Step 3: Write the command <javac WordCount.java> and press enter button. 
+Step 4: Write the command <java WordCount WCV.txt> and press enter button. It will show the result.
